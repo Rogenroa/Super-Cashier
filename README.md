@@ -1,5 +1,5 @@
 # Super-Cashier
-Pembuatan tugas Project Pyhton pada kurikulum Pacmaan Academy
+Pembuatan tugas Project Phyton pada kurikulum Pacmaan Academy
 
 # Latar Belakang
 Roger adalah seorang pemilik supermarket besar di salah satu kota di Indonesia. Roger memiliki rencana untuk melakukan perbaikan proses bisnis, yaitu Roger akan membuat sistem kasir yang dapat berjalan dengan self-service di supermarket miliknya. Sehingga customer bisa langsung memasukan item yang dibeli, jumlah item item yang dibeli, dan harga item yang dibeli serta tidak menutup kemungkinan adanya tambahan fitur lainnya.
