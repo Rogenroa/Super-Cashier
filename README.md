@@ -31,7 +31,7 @@ c. Menampilkan tabel berisi seluruh data pesanan yang sudah diinput
 
 6. Terakhir, customer bisa menampilkan total biaya belanja yang harus dibayarkan  dan diskon yang didapatkan sesuai dengan total biaya belanja.
 
-#Flowchart & Code Related
+# Flowchart & Code Related
 ![FlowChart](https://github.com/Rogenroa/Super-Cashier/assets/78997992/1f461c67-6b9b-4a79-9936-ef281aa9b5c6)
 
 # Penjelasan dari Function
